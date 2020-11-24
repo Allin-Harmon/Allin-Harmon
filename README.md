@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
+I am currently a student at the Clubhou.se Code Boot Camp Cohort #10.
+
+I graduate in December.
+
+Find out more a https://www.linkedin.com/in/allinharmon/
+ 
 <!--
 **Allin-Harmon/Allin-Harmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
